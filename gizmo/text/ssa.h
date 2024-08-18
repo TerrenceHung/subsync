@@ -4,6 +4,7 @@
 #include "words.h"
 #include <list>
 #include <set>
+#include <cstdint>
 #include <string>
 
 
